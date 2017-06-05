@@ -1,0 +1,21 @@
+{
+    "name": "zzh/tool",
+    "description": "thinkphp5 function",
+    "authors": [
+        {
+            "name": "632799608",
+            "email": "632799608@qq.com"
+        },
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zzh\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    },
+}
