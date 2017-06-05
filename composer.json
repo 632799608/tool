@@ -1,11 +1,18 @@
 {
     "name": "zzh/tool",
     "description": "thinkphp5 function",
+    "type": "function",
+    "keywords": [
+        "function",
+        "thinkphp5"
+    ],
+    "homepage": "http://thinkphp.cn/",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "632799608",
             "email": "632799608@qq.com"
-        },
+        }
     ],
     "require": {
         "php": ">=5.4.0"
@@ -17,5 +24,5 @@
         "files": [
             "src/helper.php"
         ]
-    },
+    }
 }
